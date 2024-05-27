@@ -1,0 +1,1 @@
+# SQL-Ad-Hoc-Analysis-AtliQ-Hardwares
